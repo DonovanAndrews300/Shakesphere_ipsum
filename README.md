@@ -8,12 +8,12 @@ It then returns random lines from the play as text.
 git clone https://github.com/DonovanAndrews300/Shakesphere_ipsum.git
 npm install 
 
+## Examples
 ```
-Examples
 shakespereIpsum("Ophelia",20);
 shakespereIpsum("Horatio",100);
 shakespereIpsum("Hamlet",73);
--
+
 ```
 ## Built With Javascript and Node
 
