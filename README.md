@@ -5,9 +5,10 @@ The script takes in a character name and a number as parameters.
 It then returns random lines from the play as text.
 
 ## Getting Started
+```
 git clone https://github.com/DonovanAndrews300/Shakesphere_ipsum.git
 npm install 
-
+```
 ## Examples
 ```
 shakespereIpsum("Ophelia",20);
